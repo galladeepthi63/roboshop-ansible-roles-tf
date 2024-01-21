@@ -1,0 +1,13 @@
+MONGODB_HOST: mongodb-dev.ramakrishna.cloud
+CATALOGUE_HOST: catalogue-dev.ramakrishna.cloud
+USER_HOST: user-dev.ramakrishna.cloud
+CART_HOST: cart-dev.ramakrishna.cloud
+REDIS_HOST: redis-dev.ramakrishna.cloud
+SHIPPING_HOST: shipping-dev.ramakrishna.cloud
+PAYMENT_HOST: payment-dev.ramakrishna.cloud
+MYSQL_HOST: mysql-dev.ramakrishna.cloud
+RABBITMQ_HOST: rabbitmq-dev.ramakrishna.cloud
+DISPATCH_HOST: dispatch-dev.ramakrishna.cloud
+#web: web-dev.ramakrishna.cloud
+
+
