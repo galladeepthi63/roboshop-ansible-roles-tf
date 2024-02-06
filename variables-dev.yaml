@@ -9,5 +9,7 @@ MYSQL_HOST: mysql-dev.ramakrishna.cloud
 RABBITMQ_HOST: rabbitmq-dev.ramakrishna.cloud
 DISPATCH_HOST: dispatch.app-dev.ramakrishna.cloud
 #web: web-dev.ramakrishna.cloud
+NEXUS_URL: http://172.31.15.225:8081/repository
+group_id: "com/roboshop"
 
 
